@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: 'Arvo', serif;
+    margin: 0px;
+}
+h1 {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 100px;
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    color: #FFFF66;
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+#profilo {
+    display: flex;
+    align-items: center;
+}
+
+#fp3 {
+    width: 200px;
+}
+.immagine {
+    width: 40%;
+    margin-left: 100px;
+}
+table {
+    font-size: 25px;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 20px 10px;
+    margin-right: 100px;
+    width:100%;
+}
+td {
+    width: 33%;
+}
+.info {
+    width: 50%
+}
+p {
+    font-size: 20px;
+    margin-left: 1em;
+}
+#post {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+#post2 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.linkimmagine {
+    width: 50%;
+}
+.img_collegamento {
+    width:100%;
+}
